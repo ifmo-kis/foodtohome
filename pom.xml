@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>foodtohome</name>
-	<description>Demo project for Spring Boot</description>
+	<description>ERP System</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
