@@ -2,3 +2,6 @@
 mvnw
 mvnw.cmd
 /target/*
+/.mvn/*
+/.idea/*
+.DS_Store
